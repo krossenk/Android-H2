@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HI233</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="on_create">The onCreate() event</string>
+    <string name="on_start">The onStart() event</string>
+    <string name="on_resume">The onResume() event</string>
+    <string name="on_pause">The onPause() event</string>
+    <string name="on_stop">The onStop() event</string>
+    <string name="on_destroy">The onDestroy() event</string>
+
+    <string name="buy_new_phone">Please, buy a new phone!</string>
+
+</resources>
